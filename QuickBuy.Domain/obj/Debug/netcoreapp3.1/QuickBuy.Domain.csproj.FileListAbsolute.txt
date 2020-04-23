@@ -1,0 +1,9 @@
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp3.1\QuickBuy.Domain.deps.json
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp3.1\QuickBuy.Domain.dll
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp3.1\QuickBuy.Domain.pdb
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.1\QuickBuy.Domain.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.1\QuickBuy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.1\QuickBuy.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.1\QuickBuy.Domain.AssemblyInfo.cs
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.1\QuickBuy.Domain.dll
+C:\Users\Asus\Documents\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.1\QuickBuy.Domain.pdb
