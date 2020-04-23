@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\QuickBuy.Repository.deps.json" />
+    <Content Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\QuickBuy.Repository.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\QuickBuy.Domain.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\QuickBuy.Domain.pdb" />
+    <None Include="bin\Debug\netcoreapp3.1\QuickBuy.Repository.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\QuickBuy.Repository.pdb" />
+    <None Include="obj\Debug\netcoreapp2.2\QuickBuy.Repository.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.csproj.CopyComplete" />
+    <None Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.dll" />
+    <None Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.exe" />
+    <None Include="obj\Debug\netcoreapp3.1\QuickBuy.Repository.pdb" />
+    <None Include="obj\QuickBuy.Repository.csproj.nuget.cache" />
+    <None Include="obj\QuickBuy.Repository.csproj.nuget.g.props" />
+    <None Include="obj\QuickBuy.Repository.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuickBuy.Domain\QuickBuy.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

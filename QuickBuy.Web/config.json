@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MySQLConnection": "server=127.0.0.1;user id=root;pwd=raca1981;database=quickbuydb;persistsecurityinfo=True"
+  }
+}
